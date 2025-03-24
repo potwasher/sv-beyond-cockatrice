@@ -695,13 +695,12 @@
                 <type>スペル</type>
                 <maintype>スペル</maintype>
                 <manacost>3</manacost>
-                <colors>ネメシス</colors>
-                <coloridentity>ネメシス</coloridentity>
+                <colors>ニュートラル</colors>
+                <coloridentity>ニュートラル</coloridentity>
                 <format-standard>legal</format-standard>
                 <pt></pt>
             </prop>
-            <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Puppet_Theater_01..webp?rel202503240256">BP01</set>
-            <related>操り人形</related>
+            <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Seraphic_Tidings_01.webp?rel202503240256">BP01</set>
             <tablerow>1</tablerow>
         </card>
         <card>

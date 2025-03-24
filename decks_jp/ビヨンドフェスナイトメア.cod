@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="死神の一振り" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="辣腕の死神・ミーノ" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="瞑地の霊園" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="悪辣のレッサーマミー" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="燃え盛る魔剣・オルトロス" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="ボーンガール" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="青薔薇の令嬢・セレス" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="瞑地の天宮・ムカン" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="ジャグリングゴースト" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="1" name="串刺し公・ヴラド" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="奔放なる獄炎・ケルベロス" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="ベルエンジェル・リア" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="楽朗の天宮・フィルドア" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="勇壮の堕天使・オリヴィエ" setShortName="BP01" collectorNumber="001" uuid="001"/>
+    </zone>
+</cockatrice_deck>

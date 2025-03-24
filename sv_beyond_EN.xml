@@ -695,13 +695,12 @@ At the end of your turn, add a Puppet to your hand.</text>
                 <type>Spell</type>
                 <maintype>Spell</maintype>
                 <manacost>3</manacost>
-                <colors>Portalcraft</colors>
-                <coloridentity>Portalcraft</coloridentity>
+                <colors>Neutral</colors>
+                <coloridentity>Neutral</coloridentity>
                 <format-standard>legal</format-standard>
                 <pt></pt>
             </prop>
-            <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Puppet_Theater_01..webp?rel202503240256">BP01</set>
-            <related>Puppet</related>
+            <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Seraphic_Tidings_01.webp?rel202503240256">BP01</set>
             <tablerow>1</tablerow>
         </card>
         <card>
