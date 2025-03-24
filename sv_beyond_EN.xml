@@ -103,7 +103,7 @@ Evolve: Draw a card.</text>
         </card>
         <card>
             <name>Fire Drake Whelp</name>
-            <text></text>
+            <text>Intimidate</text>
             <prop>
                 <layout>normal</layout>
                 <side>front</side>
