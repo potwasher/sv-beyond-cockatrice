@@ -20,13 +20,10 @@
             <text>相手の場のフォロワー1枚を選ぶ。それに2ダメージ。【覚醒】なら、2ダメージではなく4ダメージ。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>スペル</type>
                 <maintype>スペル</maintype>
                 <manacost>1</manacost>
                 <colors>ドラゴン</colors>
-                <coloridentity>ドラゴン</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt></pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Strike_of_the_Dragonewt_01.webp?rel202503210919">BP01</set>
@@ -38,13 +35,10 @@
 【ラストワード】自分のデッキから1枚を引く。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>2</manacost>
                 <colors>ニュートラル</colors>
-                <coloridentity>ニュートラル</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>0/2</pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Leah_Bellringer_Angel_01.webp?rel202503240256">BP01</set>
@@ -55,13 +49,10 @@
             <text>【進化時】相手の場のフォロワー1枚を選ぶ。それを破壊。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>2</manacost>
                 <colors>ニュートラル</colors>
-                <coloridentity>ニュートラル</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>2/2</pt>
             </prop>
             <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Phildau_Lionheart_Ward_01.webp?rel202503240256">BP01</set>
@@ -71,13 +62,10 @@
             <text>【ファンファーレ】相手の場のフォロワー1枚を選ぶ。それに1ダメージ。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>2</manacost>
                 <colors>ドラゴン</colors>
-                <coloridentity>ドラゴン</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>2/2</pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Searing_Firenewt_01.webp?rel202503240256">BP01</set>
@@ -88,13 +76,10 @@
 【進化時】【ファンファーレ】と同じ能力が働く。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>2</manacost>
                 <colors>ドラゴン</colors>
-                <coloridentity>ドラゴン</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>1/1</pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Little_Dragon_Nanny_01.webp?rel202503240256">BP01</set>
@@ -106,13 +91,10 @@
             <text>【威圧】</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>1</manacost>
                 <colors>ドラゴン</colors>
-                <coloridentity>ドラゴン</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>1/1</pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Fire_Drake_Whelp_01.webp?rel202503240256">TK</set>
@@ -124,13 +106,10 @@
             <text>自分のPP最大値を+1する。その後、自分のPP最大値が10なら、自分のデッキから1枚を引く。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>スペル</type>
                 <maintype>スペル</maintype>
                 <manacost>3</manacost>
                 <colors>ドラゴン</colors>
-                <coloridentity>ドラゴン</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt></pt>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Dragonsign_01.webp?rel202503240256">BP01</set>
@@ -141,13 +120,10 @@
             <text>自分のデッキから2枚を引く。【覚醒】なら、自分のリーダーを2回復。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>スペル</type>
                 <maintype>スペル</maintype>
                 <manacost>3</manacost>
                 <colors>ドラゴン</colors>
-                <coloridentity>ドラゴン</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt></pt>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Goldennote_Melody_01.webp?rel202503240256">BP01</set>
@@ -158,13 +134,10 @@
             <text>場のフォロワーすべてに5ダメージ。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>スペル</type>
                 <maintype>スペル</maintype>
                 <manacost>6</manacost>
                 <colors>ドラゴン</colors>
-                <coloridentity>ドラゴン</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt></pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Calamity_Breath_01.webp?rel202503240256">BP01</set>
@@ -175,13 +148,10 @@
             <text>【ファンファーレ】相手の場のフォロワー1枚を選ぶ。それを破壊。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>4</manacost>
                 <colors>ドラゴン</colors>
-                <coloridentity>ドラゴン</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>2/2</pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Fledgling_Dragonslayer_01.webp?rel202503240256">BP01</set>
@@ -193,13 +163,10 @@
 これが進化したとき、自分のPP最大値を+1する。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>4</manacost>
                 <colors>ドラゴン</colors>
-                <coloridentity>ドラゴン</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>3/3</pt>
             </prop>
             <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Liu_Feng_Goldennote_Ward_01.webp?rel202503240256">BP01</set>
@@ -211,13 +178,10 @@
 【超進化時】自分の場の『覇道の金龍』すべては【疾走】を持つ。自分の場の『覇道の銀龍』すべては【バリア】を持つ。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>8</manacost>
                 <colors>ドラゴン</colors>
-                <coloridentity>ドラゴン</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>5/5</pt>
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Garyu_Fabled_Dragonkin_01.webp?rel202503240256">BP01</set>
@@ -230,13 +194,10 @@
             <text>【守護】</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>4</manacost>
                 <colors>ドラゴン</colors>
-                <coloridentity>ドラゴン</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>4/5</pt>
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Supreme_Golden_Dragon_01.webp?rel202503240256">TK</set>
@@ -248,13 +209,10 @@
             <text>【突進】</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>4</manacost>
                 <colors>ドラゴン</colors>
-                <coloridentity>ドラゴン</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>5/4</pt>
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Supreme_Silver_Dragon_01.webp?rel202503240256">TK</set>
@@ -267,13 +225,10 @@
 【超進化時】自分のデッキから3枚を引く。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>9</manacost>
                 <colors>ドラゴン</colors>
-                <coloridentity>ドラゴン</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>9/9</pt>
             </prop>
             <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Twilight_Dragon_01.webp?rel202503240256">BP01</set>
@@ -284,13 +239,10 @@
             <text>【疾走】</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>10</manacost>
                 <colors>ドラゴン</colors>
-                <coloridentity>ドラゴン</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>9/10</pt>
             </prop>
             <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Genesis_Dragon_Reborn_01.webp?rel202503240256">BP01</set>
@@ -302,13 +254,10 @@
 【超進化時】自分の場の他の進化前のフォロワー1枚を選ぶ。それは超進化する。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>7</manacost>
                 <colors>ニュートラル</colors>
-                <coloridentity>ニュートラル</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>4/4</pt>
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Olivia_Heroic_Dark_Angel_01.webp?rel202503240256">BP01</set>
@@ -319,13 +268,10 @@
             <text>自分の場のフォロワー1枚と相手の場のフォロワー1枚を選ぶ。それを破壊。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>スペル</type>
                 <maintype>スペル</maintype>
                 <manacost>1</manacost>
                 <colors>ナイトメア</colors>
-                <coloridentity>ナイトメア</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt></pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Reapers_Deathslash_01.webp?rel202503240256">BP01</set>
@@ -337,13 +283,10 @@
 【アクト】これを破壊。『ゴースト』2枚を自分の場に出す。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>アミュレット</type>
                 <maintype>アミュレット</maintype>
                 <manacost>3</manacost>
                 <colors>ナイトメア</colors>
-                <coloridentity>ナイトメア</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt></pt>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Shadowcrypt_Memorial_01.webp?rel202503240256">BP01</set>
@@ -357,13 +300,10 @@
 自分のターン終了時、これを消滅。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>1</manacost>
                 <colors>ナイトメア</colors>
-                <coloridentity>ナイトメア</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>1/1</pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Ghost_01.webp?rel202503240256">TK</set>
@@ -375,13 +315,10 @@
             <text>【ファンファーレ】【ネクロマンス_4】これは【疾走】を持つ。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>2</manacost>
                 <colors>ナイトメア</colors>
-                <coloridentity>ナイトメア</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>2/2</pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Devious_Lesser_Mummy_01.webp?rel202503240256">BP01</set>
@@ -393,13 +330,10 @@
 【ラストワード】『スケルトン』1枚を自分の手札に加える。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>2</manacost>
                 <colors>ナイトメア</colors>
-                <coloridentity>ナイトメア</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>2/1</pt>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Mino_Shrewd_Reaper_01.webp?rel202503240256">BP01</set>
@@ -411,13 +345,10 @@
             <text></text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>0</manacost>
                 <colors>ナイトメア</colors>
-                <coloridentity>ナイトメア</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>1/1</pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Skeleton_01.webp?rel202503240256">TK</set>
@@ -431,13 +362,10 @@
 【進化時】【ネクロマンス_4】「相手の場のフォロワーからランダム1枚に2ダメージ。」を2回行う。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>2</manacost>
                 <colors>ナイトメア</colors>
-                <coloridentity>ナイトメア</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>2/2</pt>
             </prop>
             <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Orthrus_Hellhound_Blader_01.webp?rel202503240256">BP01</set>
@@ -448,13 +376,10 @@
             <text>【ラストワード】『スケルトン』2枚を自分の場に出す。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>3</manacost>
                 <colors>ナイトメア</colors>
-                <coloridentity>ナイトメア</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>1/2</pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Little_Miss_Bonemancer_01.webp?rel202503240256">BP01</set>
@@ -467,13 +392,10 @@
 自分のターン終了時、自分のリーダーを2回復。これが超進化後なら、2回復ではなく4回復。これは【バリア】を持つ。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>4</manacost>
                 <colors>ナイトメア</colors>
-                <coloridentity>ナイトメア</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>1/4</pt>
             </prop>
             <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Ceres_Blue_Rose_Maiden_01.webp?rel202503240256">BP01</set>
@@ -486,13 +408,10 @@
 これが進化したとき、『ゴースト』1枚を自分の場に出す。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>4</manacost>
                 <colors>ナイトメア</colors>
-                <coloridentity>ナイトメア</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>3/3</pt>
             </prop>
             <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Mukan_Shadowcrypt_Ward_01.webp?rel202503240256">BP01</set>
@@ -504,13 +423,10 @@
             <text>【ファンファーレ】【リアニメイト_4】を行う。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>6</manacost>
                 <colors>ナイトメア</colors>
-                <coloridentity>ナイトメア</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>5/5</pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Ghost_Juggler_01.webp?rel202503240256">BP01</set>
@@ -521,13 +437,10 @@
             <text>【ファンファーレ】相手の場のフォロワー1枚を選ぶ。それに5ダメージ。自分のリーダーを5回復。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>8</manacost>
                 <colors>ナイトメア</colors>
-                <coloridentity>ナイトメア</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>5/8</pt>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Vlad_Impaler_01.webp?rel202503240256">BP01</set>
@@ -539,13 +452,10 @@
 【超進化時】【リアニメイト_1】を2回行う。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>8</manacost>
                 <colors>ナイトメア</colors>
-                <coloridentity>ナイトメア</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>6/6</pt>
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Cerberus_Hellfire_Unleashed_01.webp?rel202503240256">BP01</set>
@@ -559,13 +469,10 @@
 【ラストワード】相手のリーダーに2ダメージ。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>1</manacost>
                 <colors>ナイトメア</colors>
-                <coloridentity>ナイトメア</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>2/1</pt>
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Mimi_Right_Paw_Hellhound_01.webp?rel202503240256">TK</set>
@@ -578,13 +485,10 @@
 【ラストワード】自分のリーダーを2回復。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>1</manacost>
                 <colors>ナイトメア</colors>
-                <coloridentity>ナイトメア</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>1/2</pt>
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Coco_Left_Paw_Hellhound_01.webp?rel202503240256">TK</set>
@@ -596,13 +500,10 @@
             <text>【ファンファーレ】『改良型・操り人形』1枚を自分の手札に加える。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>2</manacost>
                 <colors>ネメシス</colors>
-                <coloridentity>ネメシス</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>2/1</pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Puppet_Lancer_01.webp?rel202503240256">BP01</set>
@@ -615,13 +516,10 @@
 相手のターン終了時、これを破壊。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>1</manacost>
                 <colors>ネメシス</colors>
-                <coloridentity>ネメシス</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>3/3</pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Enhanced_Puppet_01.webp?rel202503240256">TK</set>
@@ -634,13 +532,10 @@
 【進化時】【ファンファーレ】と同じ能力が働く。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>2</manacost>
                 <colors>ネメシス</colors>
-                <coloridentity>ネメシス</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>2/2</pt>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Lovestruck_Puppeteer_01.webp?rel202503240256">BP01</set>
@@ -653,13 +548,10 @@
 相手のターン終了時、これを破壊。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>1</manacost>
                 <colors>ネメシス</colors>
-                <coloridentity>ネメシス</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>1/1</pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Puppet_01.webp?rel202503240256">TK</set>
@@ -673,13 +565,10 @@
 自分のターン終了時、『操り人形』1枚を自分の手札に加える。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>アミュレット</type>
                 <maintype>アミュレット</maintype>
                 <manacost>2</manacost>
                 <colors>ネメシス</colors>
-                <coloridentity>ネメシス</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt></pt>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Puppet_Theater_01..webp?rel202503240256">BP01</set>
@@ -691,13 +580,10 @@
             <text>自分のデッキから2枚を引く。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>スペル</type>
                 <maintype>スペル</maintype>
                 <manacost>3</manacost>
                 <colors>ニュートラル</colors>
-                <coloridentity>ニュートラル</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt></pt>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Seraphic_Tidings_01.webp?rel202503240256">BP01</set>
@@ -709,13 +595,10 @@
 自分の人形・フォロワーが場に出たとき、自分のターンごとに1回、それは【必殺】を持つ。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>3</manacost>
                 <colors>ネメシス</colors>
-                <coloridentity>ネメシス</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>2/2</pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Medical-Grade_Assassin_01.webp?rel202503240256">BP01</set>
@@ -727,13 +610,10 @@
             <text>『改良型・操り人形』2枚を自分の場に出す。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>スペル</type>
                 <maintype>スペル</maintype>
                 <manacost>3</manacost>
                 <colors>ネメシス</colors>
-                <coloridentity>ネメシス</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt></pt>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Puppet_Shield_01.webp?rel202503240256">BP01</set>
@@ -745,13 +625,10 @@
             <text>相手の場の攻撃力最大のフォロワーからランダム1枚を破壊。相手の場のフォロワーすべてに1ダメージ。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>スペル</type>
                 <maintype>スペル</maintype>
                 <manacost>4</manacost>
                 <colors>ニュートラル</colors>
-                <coloridentity>ニュートラル</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt></pt>
             </prop>
             <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Divine_Thunder_01.webp?rel202503240256">BP01</set>
@@ -764,13 +641,10 @@
 【超進化時】1枚ではなく2枚。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>5</manacost>
                 <colors>ネメシス</colors>
-                <coloridentity>ネメシス</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>4/4</pt>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Mecha_Cavalier_01.webp?rel202503240256">BP01</set>
@@ -782,13 +656,10 @@
             <text>【ファンファーレ】『操り人形』3枚を自分の手札に加える。自分の手札の人形・フォロワーすべては+1/+0する。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>6</manacost>
                 <colors>ネメシス</colors>
-                <coloridentity>ネメシス</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>5/6</pt>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Noah_Thread_of_Death_01.webp?rel202503240256">BP01</set>
@@ -802,13 +673,10 @@
 【超進化時】『改良型・操り人形』2枚を自分の場に出す。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>8</manacost>
                 <colors>ネメシス</colors>
-                <coloridentity>ネメシス</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>5/5</pt>
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Orchis_Newfound_Heart_01.webp?rel202503240256">BP01</set>
@@ -822,13 +690,10 @@
 相手は能力でこれしか選べない。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>3</manacost>
                 <colors>ネメシス</colors>
-                <coloridentity>ネメシス</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>1/6</pt>
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Lloyd_01.webp?rel202503240256">TK</set>
@@ -841,13 +706,10 @@
 【進化時】自分の場の人形・フォロワーすべては【守護】と「【ラストワード】相手のリーダーに2ダメージ。」を持つ。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>10</manacost>
                 <colors>ネメシス</colors>
-                <coloridentity>ネメシス</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>8/8</pt>
             </prop>
             <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Liam_Crazed_Creator_01.webp?rel202503240256">BP01</set>
@@ -860,13 +722,10 @@
 (おそらく 沈黙の魔将x3, サタンズサーヴァントx3, 辺獄の悪鬼x3, アスタロトの宣告x1)</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>10</manacost>
                 <colors>ニュートラル</colors>
-                <coloridentity>ニュートラル</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>10/10</pt>
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="">BP01</set>
@@ -881,13 +740,10 @@
             <text>【疾走】</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>6</manacost>
                 <colors>ニュートラル</colors>
-                <coloridentity>ニュートラル</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>10/10</pt>
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="">TK</set>
@@ -899,13 +755,10 @@
             <text></text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>1</manacost>
                 <colors>ニュートラル</colors>
-                <coloridentity>ニュートラル</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>13/13</pt>
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="">TK</set>
@@ -917,13 +770,10 @@
             <text>【ファンファーレ】相手の場のフォロワー2枚を選ぶ。それと相手のリーダーに6ダメージ。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>フォロワー</type>
                 <maintype>フォロワー</maintype>
                 <manacost>5</manacost>
                 <colors>ニュートラル</colors>
-                <coloridentity>ニュートラル</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt>9/6</pt>
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="">TK</set>
@@ -935,13 +785,10 @@
             <text>相手のリーダーの体力の最大値を1にする。</text>
             <prop>
                 <layout>normal</layout>
-                <side>front</side>
                 <type>スペル</type>
                 <maintype>スペル</maintype>
                 <manacost>10</manacost>
                 <colors>ニュートラル</colors>
-                <coloridentity>ニュートラル</coloridentity>
-                <format-standard>legal</format-standard>
                 <pt></pt>
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="">TK</set>

@@ -1,4 +1,4 @@
-Cockatrice(https://github.com/Cockatrice/Cockatrice) xml files for Shadowverse Worlds Beyond
+Cockatrice(https://cockatrice.github.io/) xml files for Shadowverse Worlds Beyond
 
 # インストール
 
