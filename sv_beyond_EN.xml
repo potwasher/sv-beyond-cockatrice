@@ -27,7 +27,7 @@
                 <pt></pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Strike_of_the_Dragonewt_01.webp?rel202503240256">BP01</set>
-            <tablerow>1</tablerow>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Leah, Bellringer Angel</name>
@@ -43,7 +43,7 @@ Evolve: Draw a card.</text>
                 <pt>0/2</pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Leah_Bellringer_Angel_01.webp?rel202503240256">BP01</set>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Phildau, Lionheart Ward</name>
@@ -57,6 +57,7 @@ Evolve: Draw a card.</text>
                 <pt>2/2</pt>
             </prop>
             <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Phildau_Lionheart_Ward_01.webp?rel202503240256">BP01</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Searing Firenewt</name>
@@ -70,6 +71,7 @@ Evolve: Draw a card.</text>
                 <pt>2/2</pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Searing_Firenewt_01.webp?rel202503240256">BP01</set>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Little Dragon Nanny</name>
@@ -84,7 +86,7 @@ Evolve: Draw a card.</text>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Little_Dragon_Nanny_01.webp?rel202503240256">BP01</set>
             <related>Fire Drake Whelp</related>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Fire Drake Whelp</name>
@@ -99,7 +101,7 @@ Evolve: Draw a card.</text>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Fire_Drake_Whelp_01.webp?rel202503240256">TK</set>
             <token>1</token>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Dragonsign</name>
@@ -113,7 +115,7 @@ Evolve: Draw a card.</text>
                 <pt></pt>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Dragonsign_01.webp?rel202503240256">BP01</set>
-            <tablerow>1</tablerow>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Goldennote Melody</name>
@@ -127,7 +129,7 @@ Evolve: Draw a card.</text>
                 <pt></pt>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Goldennote_Melody_01.webp?rel202503240256">BP01</set>
-            <tablerow>1</tablerow>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Calamity Breath</name>
@@ -141,7 +143,7 @@ Evolve: Draw a card.</text>
                 <pt></pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Calamity_Breath_01.webp?rel202503240256">BP01</set>
-            <tablerow>1</tablerow>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Fledgling Dragonslayer</name>
@@ -155,7 +157,7 @@ Evolve: Draw a card.</text>
                 <pt>2/2</pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Fledgling_Dragonslayer_01.webp?rel202503240256">BP01</set>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Liu Feng, Goldennote Ward</name>
@@ -170,7 +172,7 @@ When this follower evolves, gain 1 max play point.</text>
                 <pt>3/3</pt>
             </prop>
             <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Liu_Feng_Goldennote_Ward_01.webp?rel202503240256">BP01</set>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Garyu, Fabled Dragonkin</name>
@@ -187,7 +189,7 @@ Super-Evolve: Give all allied copies of Supreme Golden Dragon on the field Storm
             <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Garyu_Fabled_Dragonkin_01.webp?rel202503240256">BP01</set>
             <related>Supreme Golden Dragon</related>
             <related>Supreme Silver Dragon</related>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Supreme Golden Dragon</name>
@@ -202,7 +204,7 @@ Super-Evolve: Give all allied copies of Supreme Golden Dragon on the field Storm
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Supreme_Golden_Dragon_01.webp?rel202503240256">TK</set>
             <token>1</token>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Supreme Silver Dragon</name>
@@ -217,7 +219,7 @@ Super-Evolve: Give all allied copies of Supreme Golden Dragon on the field Storm
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Supreme_Silver_Dragon_01.webp?rel202503240256">TK</set>
             <token>1</token>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Twilight Dragon</name>
@@ -232,7 +234,7 @@ Super-Evolve: Draw 3 cards.</text>
                 <pt>9/9</pt>
             </prop>
             <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Twilight_Dragon_01.webp?rel202503240256">BP01</set>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Genesis Dragon Reborn</name>
@@ -246,7 +248,7 @@ Super-Evolve: Draw 3 cards.</text>
                 <pt>9/10</pt>
             </prop>
             <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Genesis_Dragon_Reborn_01.webp?rel202503240256">BP01</set>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Olivia, Heroic Dark Angel</name>
@@ -261,7 +263,7 @@ Super-Evolve: Select another unevolved allied follower on the field and super-ev
                 <pt>4/4</pt>
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Olivia_Heroic_Dark_Angel_01.webp?rel202503240256">BP01</set>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Reaper's Deathslash</name>
@@ -275,7 +277,7 @@ Super-Evolve: Select another unevolved allied follower on the field and super-ev
                 <pt></pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Reapers_Deathslash_01.webp?rel202503240256">BP01</set>
-            <tablerow>1</tablerow>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Shadowcrypt Memorial</name>
@@ -305,10 +307,11 @@ At the end of your turn, banish this card.</text>
                 <manacost>1</manacost>
                 <colors>Abysscraft</colors>
                 <pt>1/1</pt>
+                <trait>Departed</trait>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Ghost_01.webp?rel202503240256">TK</set>
             <token>1</token>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Devious Lesser Mummy</name>
@@ -322,7 +325,7 @@ At the end of your turn, banish this card.</text>
                 <pt>2/2</pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Devious_Lesser_Mummy_01.webp?rel202503240256">BP01</set>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Mino, Shrewd Reaper</name>
@@ -338,7 +341,7 @@ Last Words: Add a Skeleton to your hand.</text>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Mino_Shrewd_Reaper_01.webp?rel202503240256">BP01</set>
             <related>Skeleton</related>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Skeleton</name>
@@ -350,10 +353,11 @@ Last Words: Add a Skeleton to your hand.</text>
                 <manacost>0</manacost>
                 <colors>Abysscraft</colors>
                 <pt>1/1</pt>
+                <trait>Departed</trait>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Skeleton_01.webp?rel202503240256">TK</set>
             <token>1</token>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Orthrus, Hellhound Blader</name>
@@ -369,7 +373,7 @@ Evolve: Necromancy (4) - Do this 2 times: "Deal 2 damage to a random enemy follo
                 <pt>2/2</pt>
             </prop>
             <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Orthrus_Hellhound_Blader_01.webp?rel202503240256">BP01</set>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Little Miss Bonemancer</name>
@@ -384,7 +388,7 @@ Evolve: Necromancy (4) - Do this 2 times: "Deal 2 damage to a random enemy follo
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Little_Miss_Bonemancer_01.webp?rel202503240256">BP01</set>
             <related>Skeleton</related>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Ceres, Blue Rose Maiden</name>
@@ -399,7 +403,7 @@ At the end of your turn, restore 2 defense to your leader. If this follower is s
                 <pt>1/4</pt>
             </prop>
             <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Ceres_Blue_Rose_Maiden_01.webp?rel202503240256">BP01</set>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Mukan, Shadowcrypt Ward</name>
@@ -416,7 +420,7 @@ When this follower evolves, summon a Ghost.</text>
             </prop>
             <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Mukan_Shadowcrypt_Ward_01.webp?rel202503240256">BP01</set>
             <related>Ghost</related>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Ghost Juggler</name>
@@ -430,7 +434,7 @@ When this follower evolves, summon a Ghost.</text>
                 <pt>5/5</pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Ghost_Juggler_01.webp?rel202503240256">BP01</set>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Vlad, Impaler</name>
@@ -444,7 +448,7 @@ When this follower evolves, summon a Ghost.</text>
                 <pt>5/8</pt>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Vlad_Impaler_01.webp?rel202503240256">BP01</set>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Cerberus, Hellfire Unleashed</name>
@@ -461,7 +465,7 @@ Super-Evolve: Do this 2 times: "Reanimate (1)."</text>
             <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Cerberus_Hellfire_Unleashed_01.webp?rel202503240256">BP01</set>
             <related>Mimi, Right Paw Hellhound</related>
             <related>Coco, Left Paw Hellhound</related>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Mimi, Right Paw Hellhound</name>
@@ -477,7 +481,7 @@ Last Words: Deal 2 damage to the enemy leader.</text>
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Mimi_Right_Paw_Hellhound_01.webp?rel202503240256">TK</set>
             <token>1</token>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Coco, Left Paw Hellhound</name>
@@ -493,7 +497,7 @@ Last Words: Restore 2 defense to your leader.</text>
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Coco_Left_Paw_Hellhound_01.webp?rel202503240256">TK</set>
             <token>1</token>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Puppet Lancer</name>
@@ -508,7 +512,7 @@ Last Words: Restore 2 defense to your leader.</text>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Puppet_Lancer_01.webp?rel202503240256">BP01</set>
             <related>Enhanced Puppet</related>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Enhanced Puppet</name>
@@ -521,10 +525,11 @@ At the end of your opponent's turn, destroy this card.</text>
                 <manacost>1</manacost>
                 <colors>Portalcraft</colors>
                 <pt>3/3</pt>
+                <trait>Puppetry</trait>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Enhanced_Puppet_01.webp?rel202503240256">TK</set>
             <token>1</token>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Lovestruck Puppeteer</name>
@@ -540,7 +545,7 @@ Evolve: Replicate the effects of this card's Fanfare ability.</text>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Lovestruck_Puppeteer_01.webp?rel202503240256">BP01</set>
             <related>Puppet</related>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Puppet</name>
@@ -553,10 +558,11 @@ At the end of your opponent's turn, destroy this card.</text>
                 <manacost>1</manacost>
                 <colors>Portalcraft</colors>
                 <pt>1/1</pt>
+                <trait>Puppetry</trait>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Puppet_01.webp?rel202503240256">TK</set>
             <token>1</token>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Puppet Theater</name>
@@ -587,7 +593,7 @@ At the end of your turn, add a Puppet to your hand.</text>
                 <pt></pt>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Seraphic_Tidings_01.webp?rel202503240256">BP01</set>
-            <tablerow>1</tablerow>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Medical-Grade Assassin</name>
@@ -603,7 +609,7 @@ Once on each of your turns, when an allied Puppetry follower enters the field, g
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Medical-Grade_Assassin_01.webp?rel202503240256">BP01</set>
             <related>Enhanced Puppet</related>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Puppet Shield</name>
@@ -618,7 +624,7 @@ Once on each of your turns, when an allied Puppetry follower enters the field, g
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Puppet_Shield_01.webp?rel202503240256">BP01</set>
             <related>Enhanced Puppet</related>
-            <tablerow>1</tablerow>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Divine Thunder</name>
@@ -632,7 +638,7 @@ Once on each of your turns, when an allied Puppetry follower enters the field, g
                 <pt></pt>
             </prop>
             <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Divine_Thunder_01.webp?rel202503240256">BP01</set>
-            <tablerow>1</tablerow>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>Mecha Cavalier</name>
@@ -649,7 +655,7 @@ Super-Evolve: Summon 2 instead.</text>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Mecha_Cavalier_01.webp?rel202503240256">BP01</set>
             <related>Mecha Cavalier</related>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Noah, Thread of Death</name>
@@ -664,7 +670,7 @@ Super-Evolve: Summon 2 instead.</text>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Noah_Thread_of_Death_01.webp?rel202503240256">BP01</set>
             <related>Puppet</related>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Orchis, Newfound Heart</name>
@@ -682,7 +688,7 @@ Super-Evolve: Summon 2 copies of Enhanced Puppet.</text>
             <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Orchis_Newfound_Heart_01.webp?rel202503240256">BP01</set>
             <related>Lloyd</related>
             <related>Enhanced Puppet</related>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Lloyd</name>
@@ -695,10 +701,11 @@ Your opponent can't select any cards other than this one for abilities.</text>
                 <manacost>3</manacost>
                 <colors>Portalcraft</colors>
                 <pt>1/6</pt>
+                <trait>Puppetry</trait>
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Lloyd_01.webp?rel202503240256">TK</set>
             <token>1</token>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Liam, Crazed Creator</name>
@@ -714,7 +721,7 @@ Evolve: Give all allied Puppetry followers on the field Ward and "Last Words: De
             </prop>
             <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Liam_Crazed_Creator_01.webp?rel202503240256">BP01</set>
             <related>Enhanced Puppet</related>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Ruler of Cocytus</name>
@@ -733,7 +740,7 @@ Evolve: Give all allied Puppetry followers on the field Ward and "Last Words: De
             <related>Servant of Cocytus</related>
             <related>Demon of Purgatory</related>
             <related>Astaroth's Reckoning</related>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Silent Rider</name>
@@ -748,7 +755,7 @@ Evolve: Give all allied Puppetry followers on the field Ward and "Last Words: De
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="">TK</set>
             <token>1</token>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Servant of Cocytus</name>
@@ -763,7 +770,7 @@ Evolve: Give all allied Puppetry followers on the field Ward and "Last Words: De
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="">TK</set>
             <token>1</token>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Demon of Purgatory</name>
@@ -778,7 +785,7 @@ Evolve: Give all allied Puppetry followers on the field Ward and "Last Words: De
             </prop>
             <set rarity="legendary" num="001" uuid="001" picurl="">TK</set>
             <token>1</token>
-            <tablerow>3</tablerow>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Astaroth's Reckoning</name>

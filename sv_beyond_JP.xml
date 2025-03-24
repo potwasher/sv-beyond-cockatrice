@@ -27,7 +27,7 @@
                 <pt></pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Strike_of_the_Dragonewt_01.webp?rel202503210919">BP01</set>
-            <tablerow>1</tablerow>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>ベルエンジェル・リア</name>
@@ -113,7 +113,7 @@
                 <pt></pt>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Dragonsign_01.webp?rel202503240256">BP01</set>
-            <tablerow>1</tablerow>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>栄弦の奏楽</name>
@@ -127,7 +127,7 @@
                 <pt></pt>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Goldennote_Melody_01.webp?rel202503240256">BP01</set>
-            <tablerow>1</tablerow>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>ディザスターブレス</name>
@@ -141,7 +141,7 @@
                 <pt></pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Calamity_Breath_01.webp?rel202503240256">BP01</set>
-            <tablerow>1</tablerow>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>駆け出しのドラゴンスレイヤー</name>
@@ -275,7 +275,7 @@
                 <pt></pt>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Reapers_Deathslash_01.webp?rel202503240256">BP01</set>
-            <tablerow>1</tablerow>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>瞑地の霊園</name>
@@ -305,6 +305,7 @@
                 <manacost>1</manacost>
                 <colors>ナイトメア</colors>
                 <pt>1/1</pt>
+                <trait>死者</trait>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Ghost_01.webp?rel202503240256">TK</set>
             <token>1</token>
@@ -350,6 +351,7 @@
                 <manacost>0</manacost>
                 <colors>ナイトメア</colors>
                 <pt>1/1</pt>
+                <trait>死者</trait>
             </prop>
             <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Skeleton_01.webp?rel202503240256">TK</set>
             <token>1</token>
@@ -587,7 +589,7 @@
                 <pt></pt>
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Seraphic_Tidings_01.webp?rel202503240256">BP01</set>
-            <tablerow>1</tablerow>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>オートマタアサシン</name>
@@ -618,7 +620,7 @@
             </prop>
             <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Puppet_Shield_01.webp?rel202503240256">BP01</set>
             <related>改良型・操り人形</related>
-            <tablerow>1</tablerow>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>神の雷霆</name>
@@ -632,7 +634,7 @@
                 <pt></pt>
             </prop>
             <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/jp/Divine_Thunder_01.webp?rel202503240256">BP01</set>
-            <tablerow>1</tablerow>
+            <tablerow>3</tablerow>
         </card>
         <card>
             <name>魔鋼の騎兵</name>

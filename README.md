@@ -35,6 +35,3 @@ To begin a new local game:
 Alternatively, connect to a Cockatrice server to play with others online.
 
 Note: All actions must be done manually. You will have to keep track of play points (mana), shadows, etc. using counters
-
-# TODO
-- add type traits
