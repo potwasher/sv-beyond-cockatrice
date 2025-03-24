@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Leah, Bellringer Angel" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Phildau, Lionheart Ward" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Puppet Lancer" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Lovestruck Puppeteer" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Puppet Theater" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Puppet Shield" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="1" name="Seraphic Tidings" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Medical-Grade Assassin" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Divine Thunder" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Mecha Cavalier" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Noah, Thread of Death" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Olivia, Heroic Dark Angel" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Orchis, Newfound Heart" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Liam, Crazed Creator" setShortName="BP01" collectorNumber="001" uuid="001"/>
+    </zone>
+</cockatrice_deck>

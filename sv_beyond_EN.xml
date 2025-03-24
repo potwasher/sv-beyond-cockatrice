@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+    <sets>
+        <set>
+            <name>TK</name>
+            <longname>Token</longname>
+            <settype>Custom</settype>
+            <releasedate>2025-06-17</releasedate>
+        </set>
+        <set>
+            <name>BP01</name>
+            <longname>battlepack 1</longname>
+            <settype>Custom</settype>
+            <releasedate>2025-06-17</releasedate>
+        </set>
+    </sets>
+    <cards>
+        <card>
+            <name>Strike of the Dragonewt</name>
+            <text>Select an enemy follower on the field and deal it 2 damage. If you're in Overflow, deal 4 damage instead.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Spell</type>
+                <maintype>Spell</maintype>
+                <manacost>1</manacost>
+                <colors>Dragoncraft</colors>
+                <coloridentity>Dragoncraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt></pt>
+            </prop>
+            <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Strike_of_the_Dragonewt_01.webp?rel202503240256">BP01</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Leah, Bellringer Angel</name>
+            <text>Ward
+Last Words: Draw a card.
+Evolve: Draw a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>2</manacost>
+                <colors>Neutral</colors>
+                <coloridentity>Neutral</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>0/2</pt>
+            </prop>
+            <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Leah_Bellringer_Angel_01.webp?rel202503240256">BP01</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Phildau, Lionheart Ward</name>
+            <text>Evolve: Select an enemy follower on the field and destroy it.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>2</manacost>
+                <colors>Neutral</colors>
+                <coloridentity>Neutral</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>2/2</pt>
+            </prop>
+            <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Phildau_Lionheart_Ward_01.webp?rel202503240256">BP01</set>
+        </card>
+        <card>
+            <name>Searing Firenewt</name>
+            <text>Fanfare: Select an enemy follower on the field and deal it 1 damage.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>2</manacost>
+                <colors>Dragoncraft</colors>
+                <coloridentity>Dragoncraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>2/2</pt>
+            </prop>
+            <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Searing_Firenewt_01.webp?rel202503240256">BP01</set>
+        </card>
+        <card>
+            <name>Little Dragon Nanny</name>
+            <text>Fanfare: Summon a Fire Drake Whelp.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>2</manacost>
+                <colors>Dragoncraft</colors>
+                <coloridentity>Dragoncraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>1/1</pt>
+            </prop>
+            <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Little_Dragon_Nanny_01.webp?rel202503240256">BP01</set>
+            <related>Fire Drake Whelp</related>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Fire Drake Whelp</name>
+            <text></text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>1</manacost>
+                <colors>Dragoncraft</colors>
+                <coloridentity>Dragoncraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>1/1</pt>
+            </prop>
+            <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Fire_Drake_Whelp_01.webp?rel202503240256">TK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dragonsign</name>
+            <text>Gain 1 max play point. Then, if you have 10 max play points, draw a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Spell</type>
+                <maintype>Spell</maintype>
+                <manacost>3</manacost>
+                <colors>Dragoncraft</colors>
+                <coloridentity>Dragoncraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt></pt>
+            </prop>
+            <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Dragonsign_01.webp?rel202503240256">BP01</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Goldennote Melody</name>
+            <text>Draw 2 cards. If you're in Overflow, restore 2 defense to your leader.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Spell</type>
+                <maintype>Spell</maintype>
+                <manacost>3</manacost>
+                <colors>Dragoncraft</colors>
+                <coloridentity>Dragoncraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt></pt>
+            </prop>
+            <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Goldennote_Melody_01.webp?rel202503240256">BP01</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Calamity Breath</name>
+            <text>Deal 5 damage to all followers.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Spell</type>
+                <maintype>Spell</maintype>
+                <manacost>6</manacost>
+                <colors>Dragoncraft</colors>
+                <coloridentity>Dragoncraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt></pt>
+            </prop>
+            <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Calamity_Breath_01.webp?rel202503240256">BP01</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Fledgling Dragonslayer</name>
+            <text>Fanfare: Select an enemy follower on the field and destroy it.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>4</manacost>
+                <colors>Dragoncraft</colors>
+                <coloridentity>Dragoncraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>2/2</pt>
+            </prop>
+            <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Fledgling_Dragonslayer_01.webp?rel202503240256">BP01</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Liu Feng, Goldennote Ward</name>
+            <text>Fanfare: If you're in Overflow, evolve this follower.
+When this follower evolves, gain 1 max play point.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>4</manacost>
+                <colors>Dragoncraft</colors>
+                <coloridentity>Dragoncraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>3/3</pt>
+            </prop>
+            <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Liu_Feng_Goldennote_Ward_01.webp?rel202503240256">BP01</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Garyu, Fabled Dragonkin</name>
+            <text>Fanfare: Summon a Supreme Golden Dragon and Supreme Silver Dragon.
+Super-Evolve: Give all allied copies of Supreme Golden Dragon on the field Storm. Give all allied copies of Supreme Silver Dragon on the field Barrier.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>8</manacost>
+                <colors>Dragoncraft</colors>
+                <coloridentity>Dragoncraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>5/5</pt>
+            </prop>
+            <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Garyu_Fabled_Dragonkin_01.webp?rel202503240256">BP01</set>
+            <related>Supreme Golden Dragon</related>
+            <related>Supreme Silver Dragon</related>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Supreme Golden Dragon</name>
+            <text>Ward</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>4</manacost>
+                <colors>Dragoncraft</colors>
+                <coloridentity>Dragoncraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>4/5</pt>
+            </prop>
+            <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Supreme_Golden_Dragon_01.webp?rel202503240256">TK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Supreme Silver Dragon</name>
+            <text>Rush</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>4</manacost>
+                <colors>Dragoncraft</colors>
+                <coloridentity>Dragoncraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>5/4</pt>
+            </prop>
+            <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Supreme_Silver_Dragon_01.webp?rel202503240256">TK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Twilight Dragon</name>
+            <text>Fanfare: Give all enemy followers on the field -0/-9.
+Super-Evolve: Draw 3 cards.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>9</manacost>
+                <colors>Dragoncraft</colors>
+                <coloridentity>Dragoncraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>9/9</pt>
+            </prop>
+            <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Twilight_Dragon_01.webp?rel202503240256">BP01</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Genesis Dragon Reborn</name>
+            <text>Storm</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>10</manacost>
+                <colors>Dragoncraft</colors>
+                <coloridentity>Dragoncraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>9/10</pt>
+            </prop>
+            <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Genesis_Dragon_Reborn_01.webp?rel202503240256">BP01</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Olivia, Heroic Dark Angel</name>
+            <text>Fanfare: Draw 2 cards. Restore 2 defense to your leader. Recover 2 play points.
+Super-Evolve: Select another unevolved allied follower on the field and super-evolve it.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>7</manacost>
+                <colors>Neutral</colors>
+                <coloridentity>Neutral</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>4/4</pt>
+            </prop>
+            <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Olivia_Heroic_Dark_Angel_01.webp?rel202503240256">BP01</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Reaper's Deathslash</name>
+            <text>Select an allied and enemy follower on the field and destroy them.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Spell</type>
+                <maintype>Spell</maintype>
+                <manacost>1</manacost>
+                <colors>Abysscraft</colors>
+                <coloridentity>Abysscraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt></pt>
+            </prop>
+            <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Reapers_Deathslash_01.webp?rel202503240256">BP01</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Shadowcrypt Memorial</name>
+            <text>Fanfare: Add 2 shadows to your cemetery.
+Engage: Destroy this card. Summon 2 copies of Ghost.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Amulet</type>
+                <maintype>Amulet</maintype>
+                <manacost>3</manacost>
+                <colors>Abysscraft</colors>
+                <coloridentity>Abysscraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt></pt>
+            </prop>
+            <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Reapers_Deathslash_01.webp?rel202503240256">BP01</set>
+            <related>Ghost</related>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Ghost</name>
+            <text>Storm
+When this card leaves the field, banish it.
+At the end of your turn, banish this card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>1</manacost>
+                <colors>Abysscraft</colors>
+                <coloridentity>Abysscraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>1/1</pt>
+            </prop>
+            <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Ghost_01.webp?rel202503240256">TK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Devious Lesser Mummy</name>
+            <text>Fanfare: Necromancy (4) - Give this follower Storm.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>2</manacost>
+                <colors>Abysscraft</colors>
+                <coloridentity>Abysscraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>2/2</pt>
+            </prop>
+            <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Devious_Lesser_Mummy_01.webp?rel202503240256">BP01</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Mino, Shrewd Reaper</name>
+            <text>Enhance (4): Give this follower Rush and Bane.
+Last Words: Add a Skeleton to your hand.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>2</manacost>
+                <colors>Abysscraft</colors>
+                <coloridentity>Abysscraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>2/1</pt>
+            </prop>
+            <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Mino_Shrewd_Reaper_01.webp?rel202503240256">BP01</set>
+            <related>Skeleton</related>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Skeleton</name>
+            <text></text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>0</manacost>
+                <colors>Abysscraft</colors>
+                <coloridentity>Abysscraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>1/1</pt>
+            </prop>
+            <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Skeleton_01.webp?rel202503240256">TK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Orthrus, Hellhound Blader</name>
+            <text>Fanfare: Add 2 shadows to your cemetery.
+Ward
+Evolve: Necromancy (4) - Do this 2 times: "Deal 2 damage to a random enemy follower."</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>2</manacost>
+                <colors>Abysscraft</colors>
+                <coloridentity>Abysscraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>2/2</pt>
+            </prop>
+            <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Orthrus_Hellhound_Blader_01.webp?rel202503240256">BP01</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Little Miss Bonemancer</name>
+            <text>Last Words: Summon 2 copies of Skeleton.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>3</manacost>
+                <colors>Abysscraft</colors>
+                <coloridentity>Abysscraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>1/2</pt>
+            </prop>
+            <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Little_Miss_Bonemancer_01.webp?rel202503240256">BP01</set>
+            <related>Skeleton</related>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ceres, Blue Rose Maiden</name>
+            <text>Bane
+At the end of your turn, restore 2 defense to your leader. If this follower is super-evolved, restore 4 instead and give this follower Barrier.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>4</manacost>
+                <colors>Abysscraft</colors>
+                <coloridentity>Abysscraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>1/4</pt>
+            </prop>
+            <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Ceres_Blue_Rose_Maiden_01.webp?rel202503240256">BP01</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Mukan, Shadowcrypt Ward</name>
+            <text>Fanfare: Necromancy (8) - Evolve this follower.
+Whenever an allied Departed follower enters the field, give it Bane.
+When this follower evolves, summon a Ghost.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>4</manacost>
+                <colors>Abysscraft</colors>
+                <coloridentity>Abysscraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>3/3</pt>
+            </prop>
+            <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Mukan_Shadowcrypt_Ward_01.webp?rel202503240256">BP01</set>
+            <related>Ghost</related>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ghost Juggler</name>
+            <text>Fanfare: Reanimate (4).</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>6</manacost>
+                <colors>Abysscraft</colors>
+                <coloridentity>Abysscraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>5/5</pt>
+            </prop>
+            <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Ghost_Juggler_01.webp?rel202503240256">BP01</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Vlad, Impaler</name>
+            <text>Fanfare: Select an enemy follower on the field and deal it 5 damage. Restore 5 defense to your leader.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>8</manacost>
+                <colors>Abysscraft</colors>
+                <coloridentity>Abysscraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>5/8</pt>
+            </prop>
+            <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Vlad_Impaler_01.webp?rel202503240256">BP01</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Cerberus, Hellfire Unleashed</name>
+            <text>Fanfare: Summon a Mimi, Right Paw Hellhound and Coco, Left Paw Hellhound. Necromancy (6) - Give all other allied followers on the field +2/+0.
+Super-Evolve: Do this 2 times: "Reanimate (1)."</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>8</manacost>
+                <colors>Abysscraft</colors>
+                <coloridentity>Abysscraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>6/6</pt>
+            </prop>
+            <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Cerberus_Hellfire_Unleashed_01.webp?rel202503240256">BP01</set>
+            <related>Mimi, Right Paw Hellhound</related>
+            <related>Coco, Left Paw Hellhound</related>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Mimi, Right Paw Hellhound</name>
+            <text>Rush
+Last Words: Deal 2 damage to the enemy leader.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>1</manacost>
+                <colors>Abysscraft</colors>
+                <coloridentity>Abysscraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>2/1</pt>
+            </prop>
+            <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Mimi_Right_Paw_Hellhound_01.webp?rel202503240256">TK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Coco, Left Paw Hellhound</name>
+            <text>Rush
+Last Words: Restore 2 defense to your leader.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>1</manacost>
+                <colors>Abysscraft</colors>
+                <coloridentity>Abysscraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>1/2</pt>
+            </prop>
+            <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Coco_Left_Paw_Hellhound_01.webp?rel202503240256">TK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Puppet Lancer</name>
+            <text>Fanfare: Add an Enhanced Puppet to your hand.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>2</manacost>
+                <colors>Portalcraft</colors>
+                <coloridentity>Portalcraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>2/1</pt>
+            </prop>
+            <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Puppet_Lancer_01.webp?rel202503240256">BP01</set>
+            <related>Enhanced Puppet</related>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Enhanced Puppet</name>
+            <text>Rush
+At the end of your opponent's turn, destroy this card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>1</manacost>
+                <colors>Portalcraft</colors>
+                <coloridentity>Portalcraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>3/3</pt>
+            </prop>
+            <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Enhanced_Puppet_01.webp?rel202503240256">TK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Lovestruck Puppeteer</name>
+            <text>Fanfare: Add a Puppet to your hand.
+Evolve: Replicate the effects of this card's Fanfare ability.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>2</manacost>
+                <colors>Portalcraft</colors>
+                <coloridentity>Portalcraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>2/2</pt>
+            </prop>
+            <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Lovestruck_Puppeteer_01.webp?rel202503240256">BP01</set>
+            <related>Puppet</related>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Puppet</name>
+            <text>Rush
+At the end of your opponent's turn, destroy this card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>1</manacost>
+                <colors>Portalcraft</colors>
+                <coloridentity>Portalcraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>1/1</pt>
+            </prop>
+            <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Puppet_01.webp?rel202503240256">TK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Puppet Theater</name>
+            <text>Fanfare: Add a Puppet to your hand.
+Countdown (2)
+At the end of your turn, add a Puppet to your hand.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Amulet</type>
+                <maintype>Amulet</maintype>
+                <manacost>2</manacost>
+                <colors>Portalcraft</colors>
+                <coloridentity>Portalcraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt></pt>
+            </prop>
+            <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Puppet_Theater_01..webp?rel202503240256">BP01</set>
+            <related>Puppet</related>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Seraphic Tidings</name>
+            <text>Draw 2 cards.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Spell</type>
+                <maintype>Spell</maintype>
+                <manacost>3</manacost>
+                <colors>Portalcraft</colors>
+                <coloridentity>Portalcraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt></pt>
+            </prop>
+            <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Puppet_Theater_01..webp?rel202503240256">BP01</set>
+            <related>Puppet</related>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Medical-Grade Assassin</name>
+            <text>Fanfare: Add an Enhanced Puppet to your hand.
+Once on each of your turns, when an allied Puppetry follower enters the field, give it Bane.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>3</manacost>
+                <colors>Portalcraft</colors>
+                <coloridentity>Portalcraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>2/2</pt>
+            </prop>
+            <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Medical-Grade_Assassin_01.webp?rel202503240256">BP01</set>
+            <related>Enhanced Puppet</related>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Puppet Shield</name>
+            <text>Summon 2 copies of Enhanced Puppet.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Spell</type>
+                <maintype>Spell</maintype>
+                <manacost>3</manacost>
+                <colors>Portalcraft</colors>
+                <coloridentity>Portalcraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt></pt>
+            </prop>
+            <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Puppet_Shield_01.webp?rel202503240256">BP01</set>
+            <related>Enhanced Puppet</related>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Divine Thunder</name>
+            <text>Destroy a random enemy follower with the highest attack. Deal 1 damage to all enemy followers.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Spell</type>
+                <maintype>Spell</maintype>
+                <manacost>4</manacost>
+                <colors>Neutral</colors>
+                <coloridentity>Neutral</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt></pt>
+            </prop>
+            <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Divine_Thunder_01.webp?rel202503240256">BP01</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Mecha Cavalier</name>
+            <text>Ward
+Evolve: Summon a Mecha Cavalier.
+Super-Evolve: Summon 2 instead.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>5</manacost>
+                <colors>Portalcraft</colors>
+                <coloridentity>Portalcraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>4/4</pt>
+            </prop>
+            <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Mecha_Cavalier_01.webp?rel202503240256">BP01</set>
+            <related>Mecha Cavalier</related>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Noah, Thread of Death</name>
+            <text>Fanfare: Add 3 copies of Puppet to your hand. Give all Puppetry followers in your hand +1/+0.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>6</manacost>
+                <colors>Portalcraft</colors>
+                <coloridentity>Portalcraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>5/6</pt>
+            </prop>
+            <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Noah_Thread_of_Death_01.webp?rel202503240256">BP01</set>
+            <related>Puppet</related>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Orchis, Newfound Heart</name>
+            <text>Fanfare: Summon a Lloyd.
+Whenever an allied Puppetry follower enters the field, give it Storm and Bane.
+Super-Evolve: Summon 2 copies of Enhanced Puppet.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>8</manacost>
+                <colors>Portalcraft</colors>
+                <coloridentity>Portalcraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>5/5</pt>
+            </prop>
+            <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Orchis_Newfound_Heart_01.webp?rel202503240256">BP01</set>
+            <related>Lloyd</related>
+            <related>Enhanced Puppet</related>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Lloyd</name>
+            <text>Ward
+Your opponent can't select any cards other than this one for abilities.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>3</manacost>
+                <colors>Portalcraft</colors>
+                <coloridentity>Portalcraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>1/6</pt>
+            </prop>
+            <set rarity="legendary" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Lloyd_01.webp?rel202503240256">TK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Liam, Crazed Creator</name>
+            <text>Fanfare: Summon 3 copies of Enhanced Puppet.
+Evolve: Give all allied Puppetry followers on the field Ward and "Last Words: Deal 2 damage to the enemy leader."</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>10</manacost>
+                <colors>Portalcraft</colors>
+                <coloridentity>Portalcraft</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>8/8</pt>
+            </prop>
+            <set rarity="gold" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Liam_Crazed_Creator_01.webp?rel202503240256">BP01</set>
+            <related>Enhanced Puppet</related>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ruler of Cocytus</name>
+            <text>Fanfare: Replace your deck with the Apocalypse Deck.
+(Likely 3x Silent Rider, 3x Servant of Cocytus, 3x Demon of Purgatory, 1x Astaroth's Reckoning)</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>10</manacost>
+                <colors>Neutral</colors>
+                <coloridentity>Neutral</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>10/10</pt>
+            </prop>
+            <set rarity="legendary" num="001" uuid="001" picurl="">BP01</set>
+            <related>Silent Rider</related>
+            <related>Servant of Cocytus</related>
+            <related>Demon of Purgatory</related>
+            <related>Astaroth's Reckoning</related>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Silent Rider</name>
+            <text>Storm</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>6</manacost>
+                <colors>Neutral</colors>
+                <coloridentity>Neutral</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>10/10</pt>
+            </prop>
+            <set rarity="legendary" num="001" uuid="001" picurl="">TK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Servant of Cocytus</name>
+            <text></text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>1</manacost>
+                <colors>Neutral</colors>
+                <coloridentity>Neutral</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>13/13</pt>
+            </prop>
+            <set rarity="legendary" num="001" uuid="001" picurl="">TK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Demon of Purgatory</name>
+            <text>Fanfare: Select 2 enemy followers on the field and deal 6 damage to them and the enemy leader.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Follower</type>
+                <maintype>Follower</maintype>
+                <manacost>5</manacost>
+                <colors>Neutral</colors>
+                <coloridentity>Neutral</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt>9/6</pt>
+            </prop>
+            <set rarity="legendary" num="001" uuid="001" picurl="">TK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Astaroth's Reckoning</name>
+            <text>Set the enemy leader's max defense to 1.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Spell</type>
+                <maintype>Spell</maintype>
+                <manacost>10</manacost>
+                <colors>Neutral</colors>
+                <coloridentity>Neutral</coloridentity>
+                <format-standard>legal</format-standard>
+                <pt></pt>
+            </prop>
+            <set rarity="legendary" num="001" uuid="001" picurl="">TK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+    </cards>
+</cockatrice_carddatabase>

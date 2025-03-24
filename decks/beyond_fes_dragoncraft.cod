@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sun Mar 23 22:38:13 2025</lastLoadedTimestamp>
+    <deckname></deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Strike of the Dragonewt" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Leah, Bellringer Angel" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Phildau, Lionheart Ward" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Searing Firenewt" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Little Dragon Nanny" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Dragonsign" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Goldennote Melody" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="1" name="Calamity Breath" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Fledgling Dragonslayer" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Liu Feng, Goldennote Ward" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Garyu, Fabled Dragonkin" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Twilight Dragon" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Genesis Dragon Reborn" setShortName="BP01" collectorNumber="001" uuid="001"/>
+        <card number="3" name="Olivia, Heroic Dark Angel" setShortName="BP01" collectorNumber="001" uuid="001"/>
+    </zone>
+</cockatrice_deck>
