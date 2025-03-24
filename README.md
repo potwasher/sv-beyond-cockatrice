@@ -16,7 +16,7 @@ Cockatrice(https://cockatrice.github.io/) xml files for Shadowverse Worlds Beyon
 
 Cockatriceのサーバーに接続することでオンライン対戦も可能
 
-注意：手動で全てのアクションを行うことが必要。マナ、ネクロマンスなどはカウンターを使って記録ことを推奨。
+注意：手動で全てのアクションを行うことが必要。マナ、ネクロマンスなどはカウンターを使って記録することを推奨。
 
 # Install
 
