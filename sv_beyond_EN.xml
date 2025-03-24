@@ -346,7 +346,7 @@ Engage: Destroy this card. Summon 2 copies of Ghost.</text>
                 <format-standard>legal</format-standard>
                 <pt></pt>
             </prop>
-            <set rarity="bronze" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Reapers_Deathslash_01.webp?rel202503240256">BP01</set>
+            <set rarity="silver" num="001" uuid="001" picurl="https://fes.shadowverse-wb.com/assets/images/cards/card/en/Shadowcrypt_Memorial_01.webp?rel202503240256">BP01</set>
             <related>Ghost</related>
             <tablerow>1</tablerow>
         </card>
