@@ -1,5 +1,11 @@
 Cockatrice(https://cockatrice.github.io/) xml files for Shadowverse Worlds Beyond
 
+![deck builder](screenshots/deck%20builder.png)
+
+![ready screen](screenshots/ready%20screen.png)
+
+![in game](screenshots/in%20game.png)
+
 # インストール
 
 1. Cockatriceをインストール
