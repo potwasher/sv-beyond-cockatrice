@@ -75,7 +75,8 @@ Evolve: Draw a card.</text>
         </card>
         <card>
             <name>Little Dragon Nanny</name>
-            <text>Fanfare: Summon a Fire Drake Whelp.</text>
+            <text>Fanfare: Summon a Fire Drake Whelp.
+Evolve: Replicate the effects of this card's Fanfare ability.</text>
             <prop>
                 <layout>normal</layout>
                 <type>Follower</type>
