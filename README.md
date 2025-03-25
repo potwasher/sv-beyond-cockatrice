@@ -12,7 +12,7 @@ Cockatrice(https://cockatrice.github.io/) xml files for Shadowverse Worlds Beyon
 2. カードデータベース -> カスタムセットフォルダを開く
 3. `sv_beyond_JP.xml`をフォルダにコピー
 4. カードデータベース -> Reload card database
-5. カードデータベース -> セットを管理　`battlepack 1`(仮)を選択
+5. カードデータベース -> セットを管理　`battlepack 1`(仮)と`Tokens`を選択
 
 # 対戦
 
@@ -36,7 +36,7 @@ Cockatriceのサーバーに接続することでオンライン対戦も可能
 2. Click Card Database -> Open custom sets folder
 3. Copy the `sv_beyond_EN.xml` file into the folder
 4. Click Card Database -> Reload card database
-5. Click Card Database -> Manage sets. Enable `battlepack 1`(filler name)
+5. Click Card Database -> Manage sets. Enable `battlepack 1`(filler name) and `Tokens`
 
 # Playing a game
 
